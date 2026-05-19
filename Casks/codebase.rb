@@ -1,6 +1,6 @@
 cask "codebase" do
-  version "0.1.1"
-  sha256 "8040123acfe52626b00e33eb9beb4bfa8244bdf588af0cdd19182fcd86edc79c"
+  version "0.1.2"
+  sha256 "3d79e1d2fe13d83ca0c7984702754dbeeda3457ed6a5f843b95f3777bcf665b6"
 
   url "https://github.com/AndrewVos/Codebase/releases/download/v#{version}/codebase-#{version}-mac.dmg",
       verified: "github.com/AndrewVos/Codebase/"
